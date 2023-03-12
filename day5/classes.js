@@ -49,6 +49,7 @@
 
 // // console.log(object.add(14, 20));
 
+//circular array
 // let array = [1, 2, 3, 4, 5];
 
 // console.log(array[7%array.length]);
